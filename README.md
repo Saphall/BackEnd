@@ -1,5 +1,5 @@
 # BackEnd
-Database design and management Practice.
+Database design and practices.
 
 DataEngineering Basics.
 
