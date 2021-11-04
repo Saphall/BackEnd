@@ -8,7 +8,7 @@
 * 6. Learning about workflow tools - Docker, Luigi, Apache Airflow
 
 * 7. Learing about Cloud and NOSQL - ETL, Cloud Data WareHouse, 'Google Data Certificate or Azure' 
-* 8. Learning about streaming and Distributes systems - Apache Kafla, Spark, Hadoop
+* 8. Learning about streaming and Distributes systems - Apache Kafka, Spark, Hadoop
 * 9. Start studying for interviews - DS, SQL, DataWarehose questions
 * 10. Build Third Project - Use Cloud Management Service like AWS Kinesis to stream data , ETL tools, pull from sources, BigQuery
 * 11. UI/UX and Dashboarding - Dashboarding tools
