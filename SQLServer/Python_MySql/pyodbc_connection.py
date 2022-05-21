@@ -5,7 +5,7 @@ DATABASE = "DATABASE_NAME_HERE"  # test_database
 USERNAME = "USERNAME_HERE"  # user_name
 PASSWORD = "PASSWORD_HERE"  # password
 TABLENAME = "TABLE_NAME_HERE"  # test_table
-# Driver_info can be obtained by using `yodbc-installer -d -l` command in terminal.
+# Driver_info can be obtained by using `pyodbc-installer -d -l` command in terminal.
 conn = pyodbc.connect(
     "DRIVER={ODBC Driver 17 for SQL Server};SERVER="
     + SERVER
