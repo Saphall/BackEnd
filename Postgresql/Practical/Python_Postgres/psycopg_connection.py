@@ -2,11 +2,11 @@ import psycopg2
 
 try:
     connection = psycopg2.connect(
-        user="USERNAME_HERE",          #user_name
-        password="PASSWORD_HERE",      #password
-        host="HOST_HERE",              #localhost
-        port="PORT_HERE",              #5432
-        database="DATABASE_HERE",      #test_database
+        user="USERNAME_HERE",  # user_name
+        password="PASSWORD_HERE",  # password
+        host="HOST_HERE",  # localhost
+        port="PORT_HERE",  # 5432
+        database="DATABASE_HERE",  # test_database
     )
     cursor = connection.cursor()
 
