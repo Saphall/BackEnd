@@ -5,7 +5,7 @@ DataEngineering Basics.
 
 > Database Management System (DBMS)
 
-- [x] MySQL
+- [ ] MySQL
 - [ ] SQLServer
 - [ ] PostgreSQL
 - [ ] MongoDB
